@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jonathan Mezach and I'm a Solution Architect @ [R&R WFM](https://github.com/rr-wfm/). I'm continously working on improving our Software as a Service application for our customers. That application is built on the [.NET Platform](https://github.com/dotnet/)
+
 <!--
 **jmezach/jmezach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
